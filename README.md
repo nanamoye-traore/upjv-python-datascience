@@ -10,7 +10,7 @@ Ce dépôt contient mes travaux dirigés du cours Python & Data Science réalis�
 
 | TD | Sujet | Statut |
 |----|-------|--------|
-| [td01](td01_enonce.ipynb) | Introduction à Git | ❌ |
+| [td01](td01_enonce.ipynb) | Introduction à Git | ✅ |
 | [td02](td02_enonce.ipynb) | Introduction à GitHub | ✅ |
 | [td03](td03_enonce.ipynb) | Les bases de Python | ✅ |
 | [td04](td04_enonce.ipynb) | Les fonctions et NumPy | ✅ |
